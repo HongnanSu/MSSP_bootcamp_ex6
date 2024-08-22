@@ -10,3 +10,4 @@ calculate<-function(my_vect) {print:c(mean(my_vect),range(my_vect))}
 #4
 median(c(1,2,3,4,5))
 median(c(1,2,3,4,5,6))
+# test
